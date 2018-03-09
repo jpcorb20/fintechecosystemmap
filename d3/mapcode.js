@@ -31,7 +31,7 @@ var tooltip = d3.select("body")
     .style("font", "12px sans-serif")
     .text("tooltip");
 
-d3.json("D3/fintechs_flat.json", function(data) {
+d3.json("d3/fintechs_flat.json", function(data) {
 
   for(var d in data){
     if(!!data[d]["NbEmployees"] & data[d]["NbEmployees"]!=null){
