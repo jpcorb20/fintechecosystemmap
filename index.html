@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+    <style type="text/css">
+		text {
+		  pointer-events: none;
+		}
+
+		text.parent {
+		  font-family: 'play', sans-serif;
+		}
+
+		text.child {
+		  font-family: 'proxima-nova', sans-serif;
+		  font-size: 13px;
+		}
+
+		circle {
+		  fill: #c6dbef;
+		  stroke: #999;
+		  pointer-events: all;
+		}
+
+		circle.parent {
+		  fill: #3182bd;
+		  fill-opacity: .7;
+		  stroke-width: 0px;
+		}
+
+		circle.parent#idCircle {
+		  fill-opacity: 0;
+		}
+
+		circle.parent:hover {
+		  fill-opacity: 0.9;
+		}
+
+		h1 {
+		 font-family: 'play', sans-serif;
+		 font-size: 45px;
+		 font-weight: normal;
+		 line-height: 48px;
+		 margin: 30;
+		}
+
+		svg {
+			display: block;
+			margin: 0 auto;
+		}
+
+    </style>
+ </head>
+ <body>
+ 	<h1 align="center">Montreal's Fintech Ecosystem Map</h1>
+ 	<div class="map"></div>
+    <script type="text/javascript" src="d3/d3.js"></script>
+    <script type="text/javascript" src="d3/d3.layout.js"></script>
+    <script type="text/javascript" src="d3/circle-legend.js"></script>
+    <script type="text/javascript" src="http://underscorejs.org/underscore-min.js"></script>
+	<script type="text/javascript" src="d3/mapcode.js"></script>
+	<script>
+		circleLegend(d3.select('svg g#vis'))
+        .width(960)
+        .height(500)
+        .circleColor('#46454b')
+        .textColor('#e0e5da')
+        .suffix('%')
+        .textPadding(45)
+        .render()
+	</script>
+</body>
+</html>

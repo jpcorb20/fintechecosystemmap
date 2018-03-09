@@ -1,0 +1,486 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "District 3",
+                    "size": 20.0
+                },
+                {
+                    "name": "Centech",
+                    "size": 10.0
+                },
+                {
+                    "name": "Institute for Entrepreneurship National Bank | HEC Montr\u00e9al",
+                    "size": 10.0
+                },
+                {
+                    "name": "McGill X-1",
+                    "size": 10.0
+                },
+                {
+                    "name": "Founder Institute",
+                    "size": 10.0
+                },
+                {
+                    "name": "Desjardins Labs",
+                    "size": 20.0
+                },
+                {
+                    "name": "FounderFuel",
+                    "size": 7
+                }
+            ],
+            "name": "Accelerator / Incubator"
+        },
+        {
+            "children": [
+                {
+                    "name": "Fundica",
+                    "size": 10.0
+                },
+                {
+                    "name": "Seeds of Change",
+                    "size": 10.0
+                },
+                {
+                    "name": "Haricot",
+                    "size": 10.0
+                },
+                {
+                    "name": "CoPower",
+                    "size": 10.0
+                }
+            ],
+            "name": "Capital Raising"
+        },
+        {
+            "children": [
+                {
+                    "name": "Covera",
+                    "size": 10.0
+                },
+                {
+                    "name": "Zensurance",
+                    "size": 10.0
+                },
+                {
+                    "name": "Karma Insurance",
+                    "size": 10.0
+                },
+                {
+                    "name": "Ubios ",
+                    "size": 10.0
+                }
+            ],
+            "name": "Insurtech"
+        },
+        {
+            "children": [
+                {
+                    "name": "Philafy",
+                    "size": 10.0
+                },
+                {
+                    "name": "Goowi",
+                    "size": 10.0
+                }
+            ],
+            "name": "Philanthropy / Marketing"
+        },
+        {
+            "children": [
+                {
+                    "name": "AMF - Fintech Lab",
+                    "size": 1000.0
+                },
+                {
+                    "name": "OpenReg",
+                    "size": 10.0
+                },
+                {
+                    "name": "Irosoft",
+                    "size": 7
+                }
+            ],
+            "name": "Regulations"
+        },
+        {
+            "children": [
+                {
+                    "name": "Delve Labs",
+                    "size": 20.0
+                },
+                {
+                    "name": "EZ-TFA",
+                    "size": 10.0
+                },
+                {
+                    "name": "StreamScan",
+                    "size": 10.0
+                }
+            ],
+            "name": "Cybersecurity"
+        },
+        {
+            "children": [
+                {
+                    "name": "Satoshi Portal",
+                    "size": 11.0
+                },
+                {
+                    "name": "PotCoin - PotLabs",
+                    "size": 11.0
+                },
+                {
+                    "name": "Omnigate Systems",
+                    "size": 11.0
+                },
+                {
+                    "name": "Catallaxy",
+                    "size": 11.0
+                },
+                {
+                    "name": "Nash",
+                    "size": 11.0
+                },
+                {
+                    "name": "Mantle",
+                    "size": 11.0
+                },
+                {
+                    "name": "Bylls ",
+                    "size": 11.0
+                },
+                {
+                    "name": "Ambo Technologies",
+                    "size": 10.0
+                },
+                {
+                    "name": "Blockstream",
+                    "size": 50.0
+                }
+            ],
+            "name": "Cryptocurrency"
+        },
+        {
+            "children": [
+                {
+                    "name": "Ferst Digital",
+                    "size": 10.0
+                },
+                {
+                    "name": "Impak Finance",
+                    "size": 20.0
+                }
+            ],
+            "name": "Banking"
+        },
+        {
+            "children": [
+                {
+                    "name": "Flinks",
+                    "size": 10.0
+                },
+                {
+                    "name": "Budgeto ",
+                    "size": 10.0
+                },
+                {
+                    "name": "DataPerformers",
+                    "size": 7
+                }
+            ],
+            "name": "Other"
+        },
+        {
+            "children": [
+                {
+                    "name": "Ferst Capital Partners (FCP)",
+                    "size": 20.0
+                },
+                {
+                    "name": "Diagram",
+                    "size": 20.0
+                },
+                {
+                    "name": "Real Ventures ",
+                    "size": 40.0
+                },
+                {
+                    "name": "iNovia",
+                    "size": 50.0
+                },
+                {
+                    "name": "BrightSpark",
+                    "size": 10.0
+                },
+                {
+                    "name": "WhiteStar",
+                    "size": 10.0
+                },
+                {
+                    "name": "500 Startups (Canada)",
+                    "size": 500.0
+                },
+                {
+                    "name": "Anges Quebec",
+                    "size": 10.0
+                },
+                {
+                    "name": "M2S Capital ",
+                    "size": 10.0
+                }
+            ],
+            "name": "Venture Capital/Angels"
+        },
+        {
+            "children": [
+                {
+                    "name": "Pivotal Payments",
+                    "size": 1000.0
+                },
+                {
+                    "name": "NUKERN",
+                    "size": 10.0
+                },
+                {
+                    "name": "Otonom Solutions",
+                    "size": 10.0
+                },
+                {
+                    "name": "Kiwili",
+                    "size": 20.0
+                },
+                {
+                    "name": "Dealflo",
+                    "size": 100.0
+                },
+                {
+                    "name": "Secunik",
+                    "size": 7
+                },
+                {
+                    "name": "Instacoin",
+                    "size": 7
+                },
+                {
+                    "name": "Paymentpin",
+                    "size": 10.0
+                },
+                {
+                    "name": "Shake",
+                    "size": 10.0
+                },
+                {
+                    "name": "Lightspeed",
+                    "size": 500.0
+                },
+                {
+                    "name": "Domum Link",
+                    "size": 20.0
+                },
+                {
+                    "name": "Desjardins Monetico",
+                    "size": 7
+                },
+                {
+                    "name": "Positive Inc.",
+                    "size": 7
+                },
+                {
+                    "name": "Crema App",
+                    "size": 10.0
+                },
+                {
+                    "name": "Mobeewave",
+                    "size": 30.0
+                },
+                {
+                    "name": "TeamWallet ",
+                    "size": 10.0
+                },
+                {
+                    "name": "Payment Rails",
+                    "size": 10.0
+                },
+                {
+                    "name": "Meridex",
+                    "size": 10.0
+                },
+                {
+                    "name": "Squares Union",
+                    "size": 10.0
+                }
+            ],
+            "name": "Payments"
+        },
+        {
+            "children": [
+                {
+                    "name": "TechBanx",
+                    "size": 20.0
+                },
+                {
+                    "name": "Evolocity",
+                    "size": 20.0
+                },
+                {
+                    "name": "Thinking Capital ",
+                    "size": 150.0
+                },
+                {
+                    "name": "IOU Financial",
+                    "size": 100.0
+                },
+                {
+                    "name": "Seedlify",
+                    "size": 10.0
+                },
+                {
+                    "name": "RealStarter",
+                    "size": 10.0
+                },
+                {
+                    "name": "GoTroo ",
+                    "size": 10.0
+                },
+                {
+                    "name": "Lendmart",
+                    "size": 10.0
+                }
+            ],
+            "name": "Alternative Lending"
+        },
+        {
+            "children": [
+                {
+                    "name": "Bene-Fix",
+                    "size": 20.0
+                }
+            ],
+            "name": "Insurtech "
+        },
+        {
+            "children": [
+                {
+                    "name": "MTL New Tech",
+                    "size": 7
+                }
+            ],
+            "name": null
+        },
+        {
+            "children": [
+                {
+                    "name": "UdeM Fintech Club - In development",
+                    "size": 10.0
+                },
+                {
+                    "name": "Fintech Society (Concordia University)",
+                    "size": 10.0
+                },
+                {
+                    "name": "McGill Student's Fintech Association",
+                    "size": 10.0
+                },
+                {
+                    "name": "PolyFinances ",
+                    "size": 10.0
+                }
+            ],
+            "name": "University associations"
+        },
+        {
+            "children": [
+                {
+                    "name": "FinFusion MTL",
+                    "size": 10.0
+                },
+                {
+                    "name": "FormFintech ",
+                    "size": 10.0
+                },
+                {
+                    "name": "Finance Montr\u00e9al",
+                    "size": 20.0
+                },
+                {
+                    "name": "BlockChain MTL ",
+                    "size": 10.0
+                }
+            ],
+            "name": "Non-Profit"
+        },
+        {
+            "children": [
+                {
+                    "name": "HERD Label",
+                    "size": 10.0
+                },
+                {
+                    "name": "EquityFeed",
+                    "size": 10.0
+                },
+                {
+                    "name": "WealthTab",
+                    "size": 10.0
+                },
+                {
+                    "name": "TickSmith",
+                    "size": 20.0
+                },
+                {
+                    "name": "DDStocks",
+                    "size": 10.0
+                },
+                {
+                    "name": "FinDynamics",
+                    "size": 10.0
+                },
+                {
+                    "name": "Inovestor ",
+                    "size": 30.0
+                },
+                {
+                    "name": "TimeisLife",
+                    "size": 10.0
+                },
+                {
+                    "name": "softTarget",
+                    "size": 20.0
+                },
+                {
+                    "name": "Traderific",
+                    "size": 10.0
+                },
+                {
+                    "name": "NYT",
+                    "size": 7
+                },
+                {
+                    "name": "Wealthica",
+                    "size": 10.0
+                },
+                {
+                    "name": "Mylo",
+                    "size": 20.0
+                },
+                {
+                    "name": "Perfiqt",
+                    "size": 10.0
+                },
+                {
+                    "name": "Hardbacon",
+                    "size": 10.0
+                },
+                {
+                    "name": "Croesus",
+                    "size": 200.0
+                }
+            ],
+            "name": "Investments"
+        }
+    ],
+    "name": ""
+}
